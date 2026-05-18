@@ -409,9 +409,7 @@ tamim — self-taught, breaker of things{"\n\n"}
 
           <div className="reveal mx-auto grid max-w-4xl grid-cols-1 gap-6 md:grid-cols-2">
             <div className="terminal-card p-6 font-mono text-sm">
-              <div className="mb-4 text-[10px] uppercase tracking-[0.3em] text-muted-foreground">
-                // links
-              </div>
+
               <div className="space-y-3">
                 {contacts.map(([k, v, h]) => (
                   <a
